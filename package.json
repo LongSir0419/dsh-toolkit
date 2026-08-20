@@ -1,7 +1,7 @@
 {
   "name": "@wanghailong0419/dsh-toolkit",
   "description": "DSH toolkit bundle: installs dsh-mcp-manager + dsh-skill-manager with a single `dsh plugin --profile web add`",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -19,6 +19,7 @@
   "files": [
     "lib/index.js",
     "cordis.patch.yml",
+    "docs/",
     "README.md",
     "LICENSE"
   ],

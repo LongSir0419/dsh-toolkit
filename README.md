@@ -7,7 +7,7 @@ DeepSeek Harness (DSH) 插件工具包——**一条命令**安装两个常用�
 
 ## 展示
 
-| mcp管理（MCP 服务器） | Skill管理（Skills） |
+| mcp管理 | Skill管理 |
 |---|---|
 | ![mcp](docs/preview_mcp.png) | ![skill](docs/preview_skill.png) |
 
