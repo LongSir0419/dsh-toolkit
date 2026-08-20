@@ -1,0 +1,6 @@
+[submodule "dsh-mcp-manager"]
+	path = dsh-mcp-manager
+	url = https://github.com/LongSir0419/dsh-mcp-manager.git
+[submodule "dsh-skill-manager"]
+	path = dsh-skill-manager
+	url = https://github.com/LongSir0419/dsh-skill-manager.git
