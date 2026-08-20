@@ -6,3 +6,6 @@ Thumbs.db
 
 # Temporary verification probes
 probe-*.mjs
+
+# Local agent instructions (private, never commit)
+AGENTS.md
