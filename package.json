@@ -1,0 +1,39 @@
+{
+  "name": "@wanghailong0419/dsh-toolkit",
+  "description": "DSH toolkit bundle: installs dsh-mcp-manager + dsh-skill-manager with a single `dsh plugin --profile web add`",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "files": [
+    "lib/index.js",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "bundle",
+    "mcp",
+    "skill",
+    "toolkit",
+    "plugin"
+  ],
+  "dependencies": {
+    "@wanghailong0419/dsh-mcp-manager": "^0.1.3",
+    "@wanghailong0419/dsh-skill-manager": "^0.1.4"
+  }
+}

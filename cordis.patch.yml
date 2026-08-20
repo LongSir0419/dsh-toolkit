@@ -1,0 +1,8 @@
+# dsh-toolkit bundle patch.
+# Installed via `dsh plugin --profile web add @wanghailong0419/dsh-toolkit`.
+# One command installs both member bundles; this patch mounts their entries.
+- insert:
+    - id: dsh-mcp-manager
+      name: '@wanghailong0419/dsh-mcp-manager'
+    - id: dsh-skill-manager
+      name: '@wanghailong0419/dsh-skill-manager'
