@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](README_CN.md)
 
-A DeepSeek Harness (DSH) plugin toolkit — **install two essential plugins with one command**: MCP Manager and Skill Manager. Ready to use right after install; the settings page automatically gains **mcp管理** and **Skill管理** sections.
+A DeepSeek Harness (DSH) plugin toolkit — **install two essential plugins with one command**: MCP Manager and Skill Manager. Ready to use right after install; the settings page automatically gains **MCP Manager** and **Skill Manager** sections.
 
 [![npm](https://img.shields.io/npm/v/@wanghailong0419/dsh-toolkit)](https://www.npmjs.com/package/@wanghailong0419/dsh-toolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
