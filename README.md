@@ -1,6 +1,6 @@
 # dsh-toolkit
 
-DeepSeek Harness (DSH) 插件工具包——**一条命令**安装两个常用插件：MCP 服务器管理与 Skill 管理。装完即用，设置页自动出现 **mcp管理** 与 **Skill管理** 两个分区。
+DeepSeek Harness (DSH) 插件工具包——**一条命令**安装两个常用插件：mcp管理 与 Skill管理。装完即用，设置页自动出现 **mcp管理** 与 **Skill管理** 两个分区。
 
 [![npm](https://img.shields.io/npm/v/@wanghailong0419/dsh-toolkit)](https://www.npmjs.com/package/@wanghailong0419/dsh-toolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
