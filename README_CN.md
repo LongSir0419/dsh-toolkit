@@ -8,6 +8,7 @@ DeepSeek Harness (DSH) 插件工具包——**一条命令**安装两个常用�
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![dshbase 实测可装](https://dshbase.com/badges/wanghailong0419-dsh-toolkit.svg)](https://dshbase.com/zh/plugins/wanghailong0419-dsh-toolkit/)
 [![Listed on dsh-plugin.org](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/zh/plugins/longsir0419/dsh-toolkit)
+[![DSH Market](https://raw.githubusercontent.com/2BingLing/dsh-market/master/assets/readme/badge-listed-en.svg)](https://dsh.market/)
 
 ## 展示
 
