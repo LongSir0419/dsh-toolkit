@@ -1,8 +1,14 @@
 # dsh-toolkit bundle patch.
 # Installed via `dsh plugin --profile web add @wanghailong0419/dsh-toolkit`.
-# One command installs both member bundles; this patch mounts their entries.
+# One command installs both member bundles.
+#
+# Loader entries resolve the toolkit's OWN subpath exports (the toolkit is the
+# profile-root dependency), and the toolkit re-exports each member package from
+# inside its own dependency tree. Node resolves those member packages from the
+# toolkit's node_modules, which works on non-hoisted isolated layouts where
+# nested dependencies are not lifted to the profile root.
 - insert:
     - id: dsh-mcp-manager
-      name: '@wanghailong0419/dsh-mcp-manager'
+      name: '@wanghailong0419/dsh-toolkit/mcp'
     - id: dsh-skill-manager
-      name: '@wanghailong0419/dsh-skill-manager'
+      name: '@wanghailong0419/dsh-toolkit/skill'
