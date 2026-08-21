@@ -6,6 +6,8 @@ A DeepSeek Harness (DSH) plugin toolkit — **install two essential plugins with
 
 [![npm](https://img.shields.io/npm/v/@wanghailong0419/dsh-toolkit)](https://www.npmjs.com/package/@wanghailong0419/dsh-toolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![dshbase 实测可装](https://dshbase.com/badges/wanghailong0419-dsh-toolkit.svg)](https://dshbase.com/zh/plugins/wanghailong0419-dsh-toolkit/)
+[![Listed on dsh-plugin.org](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/zh/plugins/longsir0419/dsh-toolkit)
 
 ## Screenshots
 
